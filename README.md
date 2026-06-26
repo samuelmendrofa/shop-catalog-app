@@ -38,5 +38,5 @@ Aplikasi mobile berbasis React Native (Expo) yang mengonsumsi REST API dari Fake
 
 1. Clone repositori ini:
    ```bash
-   git clone [https://github.com/USERNAME_KAMU/NAMA_REPO_KAMU.git](https://github.com/USERNAME_KAMU/NAMA_REPO_KAMU.git)
+   git clone [https://github.com/samuelmendrofa/shop-catalog-app.git](https://github.com/samuelmendrofa/shop-catalog-app.git)
    cd shop-catalog
