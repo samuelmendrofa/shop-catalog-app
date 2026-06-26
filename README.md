@@ -30,12 +30,15 @@ Aplikasi mobile berbasis React Native (Expo) yang mengonsumsi REST API dari Fake
 
 > *Catatan untuk Mahasiswa: Silakan ambil screenshot dari HP-mu melalui Expo Go, lalu masukkan gambarnya ke folder project, panggil di sini, atau hapus teks penanda ini.*
 
-1. **Kondisi Loading:** `[<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/d5f5232e-1722-42ed-835b-b5165e1125d2" />
+1. **Kondisi Loading:** `[<img width="1080" height="2412" alt="Screenshot_2026-06-26-10-00-45-76_f73b71075b1de7323614b647fe394240 jpg" src="https://github.com/user-attachments/assets/70b3c774-a850-451a-a917-f5b5375ce075" />
 ]`
 2. **Kondisi Sukses (Katalog):** `[Masukkan Link / File Gambar Katalog di sini]`
-3. **Kondisi Layar Detail (Modal):** `[Masukkan Link / File Gambar Modal Detail di sini]`
-4. **Kondisi Empty State (Tidak Ketemu):** `[Masukkan Link / File Gambar Empty State di sini]`
-5. **Kondisi Error (Offline):** `[Masukkan Link / File Gambar Error di sini]`
+3. **Kondisi Layar Detail (Modal):** `[<img width="1080" height="2412" alt="Screenshot_2026-06-26-10-01-57-93_f73b71075b1de7323614b647fe394240 jpg" src="https://github.com/user-attachments/assets/1159590b-d5c1-427c-ad40-5d583c93f992" />
+]`
+4. **Kondisi Empty State (Tidak Ketemu):** `[<img width="1080" height="2412" alt="Screenshot_2026-06-26-10-02-39-20_f73b71075b1de7323614b647fe394240 jpg" src="https://github.com/user-attachments/assets/8d99cac2-b6c3-4c78-9e94-4f87ad2cd799" />
+]`
+5. **Kondisi Error (Offline):** `[<img width="1080" height="2412" alt="Screenshot_2026-06-26-10-03-02-05_f73b71075b1de7323614b647fe394240 jpg" src="https://github.com/user-attachments/assets/09837ce8-885b-4c1a-a45b-a8213d99565c" />
+]`
 
 ---
 
